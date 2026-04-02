@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\N\\source\\repos\\Modul task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D987F71-2198-40AB-A8CB-7CB20C9FC53E}|Modul task2\\Modul task2.csproj|c:\\users\\n\\source\\repos\\modul task2\\modul task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D987F71-2198-40AB-A8CB-7CB20C9FC53E}|Modul task2\\Modul task2.csproj|solutionrelative:modul task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\N\\source\\repos\\Modul task2\\Modul task2\\Program.cs",
+              "RelativeDocumentMoniker": "Modul task2\\Program.cs",
+              "ToolTip": "C:\\Users\\N\\source\\repos\\Modul task2\\Modul task2\\Program.cs",
+              "RelativeToolTip": "Modul task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:46:49.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
